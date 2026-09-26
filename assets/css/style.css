@@ -85,8 +85,8 @@ h2 {
     margin-top: -5px;
 }
 
-/* container for about me  */
-.about-me {
+/* container for about me, education  */
+.about-me, .education {
     background-color: white;
     margin-bottom: -20px;
 }
